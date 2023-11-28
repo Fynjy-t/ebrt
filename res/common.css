@@ -1,0 +1,39 @@
+body
+{
+_qfont-family: times;
+_qfont-size: 12pt;
+font-family: arial;
+color: black;
+margin: 0;
+margin-left: 30px;
+margin-right: 30px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+body, td
+{
+font-size: 10pt;
+}
+
+h1
+{
+font-family: arial;
+font-size: 16pt;
+font-weight: bold;
+font-style: italic;
+border-bottom: 6px solid  #339900;
+padding-bottom: 12px;
+}
+
+h2
+{
+font-size: 12pt;
+}
+
+hr
+{
+color: #339900;
+height: 6px;
+display: none;
+}

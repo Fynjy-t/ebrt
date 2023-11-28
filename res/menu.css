@@ -1,0 +1,28 @@
+body
+{
+color: white;
+margin-left: 10;
+margin-right: 0;
+padding-right: 0;
+background-color: #339900;
+}
+a
+{
+font-weight: bold;
+color: #F8FCAD;
+}
+ul
+{
+list-style: none;
+margin-left: 0;
+}
+
+ul ul
+{
+margin-left: 10px;
+}
+
+h1
+{
+border-bottom: 6px solid #F8FCAD;
+}
